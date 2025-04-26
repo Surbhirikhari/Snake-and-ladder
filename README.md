@@ -14,7 +14,7 @@ This is a simple Python-based Snake and Ladder game where the player rolls dice 
 3. Follow the on-screen prompts to play the game.
 
 ## Requirements
-- Python 3.x or higher
+- Python 3.x
 
 ## How to Run
 1. Install Python 3.x from [python.org](https://www.python.org/).
